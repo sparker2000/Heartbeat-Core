@@ -1,0 +1,9 @@
+C:\Development\Playground\heartbeat\bin\Debug\netcoreapp2.0\heartbeat.deps.json
+C:\Development\Playground\heartbeat\bin\Debug\netcoreapp2.0\heartbeat.runtimeconfig.json
+C:\Development\Playground\heartbeat\bin\Debug\netcoreapp2.0\heartbeat.runtimeconfig.dev.json
+C:\Development\Playground\heartbeat\bin\Debug\netcoreapp2.0\heartbeat.dll
+C:\Development\Playground\heartbeat\obj\Debug\netcoreapp2.0\heartbeat.csprojResolveAssemblyReference.cache
+C:\Development\Playground\heartbeat\obj\Debug\netcoreapp2.0\heartbeat.AssemblyInfo.cs
+C:\Development\Playground\heartbeat\bin\Debug\netcoreapp2.0\heartbeat.pdb
+C:\Development\Playground\heartbeat\obj\Debug\netcoreapp2.0\heartbeat.dll
+C:\Development\Playground\heartbeat\obj\Debug\netcoreapp2.0\heartbeat.pdb

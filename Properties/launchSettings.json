@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "heartbeat": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Development\\Playground\\heartbeat\\config.txt"
+    }
+  }
+}
